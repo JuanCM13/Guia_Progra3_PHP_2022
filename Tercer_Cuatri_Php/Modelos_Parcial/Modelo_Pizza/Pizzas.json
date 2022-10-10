@@ -1,0 +1,23 @@
+[
+    {
+        "id": 4233946,
+        "sabor": "muzza",
+        "precio": "500.50",
+        "tipo": "molde",
+        "cantidad": 8
+    },
+    {
+        "id": 9825631,
+        "sabor": "fugazzeta",
+        "precio": "800.45",
+        "tipo": "piedra",
+        "cantidad": 10
+    },
+    {
+        "id": 8082221,
+        "sabor": "fugazzeta",
+        "precio": "750.40",
+        "tipo": "molde",
+        "cantidad": 0
+    }
+]
